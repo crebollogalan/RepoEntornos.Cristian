@@ -1,0 +1,10 @@
+C:\Users\Il_Hi\source\repos\Bank\Bank\bin\Debug\netstandard2.0\Bank.deps.json
+C:\Users\Il_Hi\source\repos\Bank\Bank\bin\Debug\netstandard2.0\Bank.dll
+C:\Users\Il_Hi\source\repos\Bank\Bank\bin\Debug\netstandard2.0\Bank.pdb
+C:\Users\Il_Hi\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.csproj.AssemblyReference.cache
+C:\Users\Il_Hi\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Il_Hi\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Il_Hi\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+C:\Users\Il_Hi\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Il_Hi\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.dll
+C:\Users\Il_Hi\source\repos\Bank\Bank\obj\Debug\netstandard2.0\Bank.pdb

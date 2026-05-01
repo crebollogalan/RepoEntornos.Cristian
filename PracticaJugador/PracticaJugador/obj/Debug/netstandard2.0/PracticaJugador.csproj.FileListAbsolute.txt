@@ -1,0 +1,10 @@
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\bin\Debug\netstandard2.0\PracticaJugador.deps.json
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\bin\Debug\netstandard2.0\PracticaJugador.dll
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\bin\Debug\netstandard2.0\PracticaJugador.pdb
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\obj\Debug\netstandard2.0\PracticaJugador.csproj.AssemblyReference.cache
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\obj\Debug\netstandard2.0\PracticaJugador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\obj\Debug\netstandard2.0\PracticaJugador.AssemblyInfoInputs.cache
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\obj\Debug\netstandard2.0\PracticaJugador.AssemblyInfo.cs
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\obj\Debug\netstandard2.0\PracticaJugador.csproj.CoreCompileInputs.cache
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\obj\Debug\netstandard2.0\PracticaJugador.dll
+C:\Users\Il_Hi\source\repos\PracticaJugador\PracticaJugador\obj\Debug\netstandard2.0\PracticaJugador.pdb
